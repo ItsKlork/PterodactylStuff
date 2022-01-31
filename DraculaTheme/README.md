@@ -5,7 +5,7 @@
 Just run the following command as root user.
 
 ```
-bash <(curl -s https://github.com/ItsKlork/PterodactylStuff/raw/main/DraculaTheme/build.sh)
+bash <(curl -s https://github.com/ItsKlork/PterodactylStuff/raw/main/DraculaTheme/build.sh)>
 ```
 <h2>Attention</h2>
 
