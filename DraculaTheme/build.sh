@@ -197,7 +197,7 @@ echo
 cd "$PTERO"
 mkdir -p temp
 cd temp
-curl -sSLo Dracula.tar.gz https://github.com/ItsKlork/PterodactylStuff/raw/main/Dracula.tar.gz
+curl -sSLo Dracula.tar.gz https://github.com/ItsKlork/PterodactylStuff/raw/main/DraculaTheme/Dracula.tar.gz
 tar -xzvf Dracula.tar.gz
 cd Dracula
 cp -rf -- * "$PTERO"
